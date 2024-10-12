@@ -1,0 +1,17 @@
+C:\Users\HOANG PHUC\source\repos\KiemTraTongSoFile\KiemTraTongSoFile\bin\Debug\KiemTraTongSoFile.exe.config
+C:\Users\HOANG PHUC\source\repos\KiemTraTongSoFile\KiemTraTongSoFile\bin\Debug\KiemTraTongSoFile.exe
+C:\Users\HOANG PHUC\source\repos\KiemTraTongSoFile\KiemTraTongSoFile\bin\Debug\KiemTraTongSoFile.pdb
+C:\Users\HOANG PHUC\source\repos\KiemTraTongSoFile\KiemTraTongSoFile\obj\Debug\KiemTraTongSoFile.csproj.AssemblyReference.cache
+C:\Users\HOANG PHUC\source\repos\KiemTraTongSoFile\KiemTraTongSoFile\obj\Debug\KiemTraTongSoFile.Form1.resources
+C:\Users\HOANG PHUC\source\repos\KiemTraTongSoFile\KiemTraTongSoFile\obj\Debug\KiemTraTongSoFile.Properties.Resources.resources
+C:\Users\HOANG PHUC\source\repos\KiemTraTongSoFile\KiemTraTongSoFile\obj\Debug\KiemTraTongSoFile.csproj.GenerateResource.cache
+C:\Users\HOANG PHUC\source\repos\KiemTraTongSoFile\KiemTraTongSoFile\obj\Debug\KiemTraTongSoFile.csproj.CoreCompileInputs.cache
+C:\Users\HOANG PHUC\source\repos\KiemTraTongSoFile\KiemTraTongSoFile\obj\Debug\KiemTraTongSoFile.exe
+C:\Users\HOANG PHUC\source\repos\KiemTraTongSoFile\KiemTraTongSoFile\obj\Debug\KiemTraTongSoFile.pdb
+C:\Users\HOANG PHUC\source\repos\KiemTraTongSoFile\KiemTraTongSoFile\obj\Debug\KiemTraTongSoFile.DocFile.resources
+C:\Users\HOANG PHUC\source\repos\KiemTraTongSoFile\KiemTraTongSoFile\obj\Debug\KiemTraTongSoFile.MoFileAnh.resources
+C:\Users\HOANG PHUC\source\repos\KiemTraTongSoFile\KiemTraTongSoFile\obj\Debug\KiemTraTongSoFile.CopyTepTin.resources
+C:\Users\HOANG PHUC\source\repos\KiemTraTongSoFile\KiemTraTongSoFile\bin\Debug\EntityFramework.dll
+C:\Users\HOANG PHUC\source\repos\KiemTraTongSoFile\KiemTraTongSoFile\bin\Debug\EntityFramework.xml
+C:\Users\HOANG PHUC\source\repos\KiemTraTongSoFile\KiemTraTongSoFile\obj\Debug\KiemTraTongSoFile.ConnectionDatabase.resources
+C:\Users\HOANG PHUC\source\repos\KiemTraTongSoFile\KiemTraTongSoFile\obj\Debug\KiemTraT.8F7160E9.Up2Date
